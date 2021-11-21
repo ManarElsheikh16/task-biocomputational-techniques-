@@ -231,4 +231,8 @@ f=FASTAFile()
 f.store("example.fasta", entries)
 for e in entries:
       print (e.identifier, e.sequence,e.description)
+<<<<<<< HEAD
 print("="*35)
+=======
+print("="*35)
+>>>>>>> origin
